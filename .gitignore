@@ -1,0 +1,29 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Claude/AI assistant files
+.claude/
+
+# Matlab/Simulink artifacts
+*.mat
+*.dmr
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
