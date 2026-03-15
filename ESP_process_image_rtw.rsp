@@ -1,5 +1,0 @@
-ESP_process_image_initialize.obj
-ESP_process_image_terminate.obj
-ESP_process_image.obj
-sum.obj
-ESP_process_image_emxutil.obj

@@ -18,6 +18,12 @@ build/
 # Matlab/Simulink artifacts
 *.mat
 *.dmr
+*.tmw
+
+# Build system files
+*.mk
+*.rsp
+*.bat
 
 # Temporary files
 *.tmp
@@ -27,3 +33,9 @@ build/
 # OS files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Arduino build
+firmware/*/build/
+*.ino.elf
+*.ino.bin
