@@ -9,7 +9,7 @@
  */
 
 /* Include files */
-#include "ESP_process_image_terminate.h"
+#include "image_processing_terminate.h"
 
 /* Function Definitions */
 void ESP_process_image_terminate(void)

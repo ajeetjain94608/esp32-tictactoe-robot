@@ -9,7 +9,7 @@
  */
 
 /* Include files */
-#include "sum.h"
+#include "math_utils.h"
 #include <string.h>
 
 /* Function Definitions */

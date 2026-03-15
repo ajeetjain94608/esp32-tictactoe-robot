@@ -9,10 +9,10 @@
  */
 
 /* Include files */
-#include "ESP_process_image.h"
-#include "ESP_process_image_emxutil.h"
-#include "ESP_process_image_types.h"
-#include "sum.h"
+#include "image_processing.h"
+#include "image_emx_utils.h"
+#include "image_processing_types.h"
+#include "math_utils.h"
 #include <math.h>
 #include <stddef.h>
 #include <string.h>

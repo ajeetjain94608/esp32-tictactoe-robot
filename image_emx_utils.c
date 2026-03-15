@@ -9,8 +9,8 @@
  */
 
 /* Include files */
-#include "ESP_process_image_emxutil.h"
-#include "ESP_process_image_types.h"
+#include "image_emx_utils.h"
+#include "image_processing_types.h"
 #include <stdlib.h>
 #include <string.h>
 

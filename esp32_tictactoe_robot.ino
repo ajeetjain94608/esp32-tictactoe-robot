@@ -80,9 +80,9 @@
 //#include "file_services.c"
 
 #include "camera_pins.h"
-#include "CSS.h"
+#include "web_styles.h"
 #include "esp_camera.h"
-#include "soft_serial_tx_util.c"
+#include "serial_utils.c"
 // web_page.h removed - OTA page now uses SHARED_CSS with other pages
 
 #define TEXT_SIZE   2 // Avoid changing. Try, NOT to change

@@ -9,7 +9,7 @@
  */
 
 /* Include files */
-#include "ESP_process_image_initialize.h"
+#include "image_processing_init.h"
 
 /* Function Definitions */
 void ESP_process_image_initialize(void)

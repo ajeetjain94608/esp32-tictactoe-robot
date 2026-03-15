@@ -12,7 +12,7 @@
 #define ESP_PROCESS_IMAGE_EMXUTIL_H
 
 /* Include files */
-#include "ESP_process_image_types.h"
+#include "image_processing_types.h"
 #include "rtwtypes.h"
 #include <stddef.h>
 #include <stdlib.h>
